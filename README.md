@@ -26,7 +26,7 @@ This project demonstrates skills in **data analysis, visualization, and storytel
 
 ## 📷 Dashboard Previews
 ### Nutrition Insights
-https://github.com/ChandanShetty06/Starbucks-Nutrition-Insights-Dashboard/blob/main/Dashboard%20Screenshot.png
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 ## 🚀 How to Use
 1. Clone the repository:
