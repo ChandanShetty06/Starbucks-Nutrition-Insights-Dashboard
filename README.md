@@ -4,12 +4,11 @@ An interactive Power BI dashboard analyzing Starbucks beverage nutrition data ac
 
 ---
 
-## 📸 Dashboard Screenshots
+## 🖼️ Dashboard Preview
 
-> **Note:** Save your exported Power BI dashboard image(s) inside a `screenshots/` folder in this repository and update the relative paths below if needed.
-
-### Full Dashboard Overview
-![Starbucks Nutrition Insights Dashboard](screenshots/dashboard-overview.png)
+<p align="center">
+  <img src="Dashboard%20Screenshot.png" alt="Starbucks Nutrition Insights Dashboard" width="50%">
+</p>
 
 ### Key Visual Components in `Starbucks-analysis.pbix`
 * **Top KPI Cards:** `Total Beverages`, `Avg Calories`, `Avg Sugar`, and `Avg Caffeine`.
